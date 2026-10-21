@@ -74,6 +74,57 @@ Arguably, the event that denoted a turn toward the modern social media landscape
 
 #Sorry for the late repo, but this is the first few paragraphs I made up. They are a bit rushed I'm sorry, but they will be edited. Just seeing now that we've chosen business and societal, apiologies again just seeing that now, wonderful viewpoints. I've chosen mathematical just for the paragraph but I will change this soon.
 
+
+
+
+
+
+
+## Business Evolution of social media platforms.
+
+from a business view point social media has changed how companies advertise and earn money. In the past business paid for simple banner ads on website.later,platform started showing ads based on people's interests and online activities.today companies also work with influencers and sell products through socail media,reaching many new customer more easily.
+
+
+
+<!-- Put everything before this until we get to conclusion and references -->
+# Ethical Reflection & Improvements - Critical evaluation and solutions
+
+<!-- Evaluate ethical arguments against social media platforms today (and maybe historically) and think of potential solutions -->
+
+<!-- These are just general points im putting down before I look for sources and turn into proper paragraphs -->
+
+## Privacy
+- Modern: Platforms like Facebook and Instagram collect a large amount of data about their users such as age, gender, residence, behaviours, interests and even how they interact with the platform to help create highly personalised content and targeted advertisements
+- Historical: Earlier platforms like Myspace would encourage their users to share details about themselves such as photos, interests, info about their personal lives (relationships, occupations etc.)
+- Potential point: Platforms have a complete in-depth understanding of how their data collection systems work and how they profit from it while a majority of their users have a limited understanding and the companies make no attempts to try educate them.
+- Potential solutions:
+
+## Algorithms
+<!-- Personalised content etc. -->
+- Modern: YouTube highly popularised highly personalised feeds that are designed to keep feeding users the content they would want to see and now this is a baseline on all social media platforms
+- Historical: Earlier platforms relied on you finding content yourself without much recommendation 
+- Potential point: On one hand platforms are designed to maximise attention but also there is a responsibility on the user to have self-control and know when to stop
+- Potential solutions
+
+## Mental health
+<!-- Unsure what to focus on here but likely around self-esteem and comparing to others -->
+- Modern: Platforms promoting unrealistic standards create a pressure for some people to try gain likes and followers.
+- Historical: Popularity metrics and the human nature to compare themselves have existed since the start of social media (Myspace etc.) and has always been one of it's biggest issues.
+- Potential point: How responsible are platforms?
+- Potential solutions:
+
+## Misinformation
+<!-- Political, medical, AI, -->
+- Modern: Due to the large network size and sheer amount of people using social media platforms, articles lacking context, statistics being twisted and also just blatant made up claims can be spread quite quickly and it has become very valuable to do so.
+- Historical: Misleading posts have always existed on social media platforms but the reach they had back then is incomparable to now
+- Potential point: Are platforms resposible, maybe on the bots side.
+- Potential solutions:
+
+<!-- I will expand on and change these points. Didnt do solutions yet as all my points centered around the same thing-->
+
+
+
+
 ## History update
 The history of social media can be traced back to early forms of electric communication, such as telegraph lines, with the first electronic message being sent by its creator Samuel Morse in May 1844, spelling out "What hath God wrought?". This message would ultimately foreshadow the immense technological and mathematical developments that would occur over the next 150 years, ultimately leading to todays modern tech messaging environment. 
 
