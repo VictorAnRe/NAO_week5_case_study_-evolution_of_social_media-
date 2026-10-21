@@ -73,3 +73,30 @@ Throughout the 1990s, the internet gave rise to online messaging services that w
 Arguably, the event that denoted a turn toward the modern social media landscape was the creation of Facebook, founded in 2004 by Eduardo Saverin, Dustin Moskovitz, Mark Zuckerberg and Chris Hughes in 2004 at Harvard University. Facebook would implement the previously mentioned Web of contacts and today has 1.3B+ active users. Facebook would lay the groundwork for other popular social media apps such as Instagram and Snapchat. The creation of Facebook marked a turn towards the modern social media landscape we know today 
 
 #Sorry for the late repo, but this is the first few paragraphs I made up. They are a bit rushed I'm sorry, but they will be edited. Just seeing now that we've chosen business and societal, apiologies again just seeing that now, wonderful viewpoints. I've chosen mathematical just for the paragraph but I will change this soon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Business Evolution of social media platforms.
+
+from a business view point social media has changed how companies advertise and earn money. In the past business paid for simple banner ads on website.later,platform started showing ads based on people's interests and online activities.today companies also work with influencers and sell products through socail media,reaching many new customer more easily.
+
+
+
