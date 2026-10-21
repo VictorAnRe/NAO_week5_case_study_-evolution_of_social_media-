@@ -5,6 +5,13 @@
 <!-- Brief overview: From early platforms (e.g., SixDegrees, MySpace) to modern networks (e.g., Facebook, Instagram, TikTok). -->
 Social media has transformed from basic web-based profile directories into complex ecosystem architectures that dictate modern human interaction, content dissemination, and digital commerce.
 
+
+<!-- The first paragraph I wrote here for it, unfinished but it is basically finished. date: 21/10/2026 -->
+Social media, which can be defined as “forms of electronic communication (such as websites for social networking and microblogging) through which users create online communities to share information, ideas, personal messages, and other content (such as videos)” (Merriam-Webster, n.d.), has been completely transformed from the rudimentary telegraph to the modern-day social media that dictate the common form of interaction and digital commerce.  
+
+In 1943, the first ever long-distance telegraph system was completed (60 km long), and the first public of the device was initiated.
+
+
 ### Significance
 <!-- Why this computing transformation matters today. -->
 The evolution of social media platforms represents one of the most rapid and impactful adoption curves in technological history. It fundamentally reshaped global communication infrastructures, personal data privacy norms, digital economies, and societal information flows.
@@ -150,3 +157,8 @@ In 2002, Reid Hoffman would create LinkedIn with partners from his former workpl
 
 Arguably, the event that marked a turn toward the modern social media landscape was the creation of Facebook, founded in 2004 by Eduardo Saverin, Dustin Moskovitz, Mark Zuckerberg and Chris Hughes in 2004 at Harvard University. Facebook would implement the previously mentioned Web of contacts and today has 1.3B+ active users. Facebook would lay the groundwork for other popular social media apps such as Instagram and Snapchat. The creation of Facebook marked a turn towards the modern social media landscape we know today and societally changed how people interact and meet online as a result. Facebook as a business also has a market cap of $1.768T and is the 8th largest company in the world according to Market Cap, showing the undoubtable influence Facebook has had in the business landscape. 
 ##updated paragraph with business/societal viewpoints
+
+
+# Bibliography
+
+Merriam-Webster (n.d.). Definition of social media. [online] Merriam-Webster. Available at: https://www.merriam-webster.com/dictionary/social%20media [Accessed 21 Oct. 2026].
