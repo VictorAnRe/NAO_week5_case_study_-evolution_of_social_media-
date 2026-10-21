@@ -73,3 +73,29 @@ Throughout the 1990s, the internet gave rise to online messaging services that w
 Arguably, the event that denoted a turn toward the modern social media landscape was the creation of Facebook, founded in 2004 by Eduardo Saverin, Dustin Moskovitz, Mark Zuckerberg and Chris Hughes in 2004 at Harvard University. Facebook would implement the previously mentioned Web of contacts and today has 1.3B+ active users. Facebook would lay the groundwork for other popular social media apps such as Instagram and Snapchat. The creation of Facebook marked a turn towards the modern social media landscape we know today 
 
 #Sorry for the late repo, but this is the first few paragraphs I made up. They are a bit rushed I'm sorry, but they will be edited. Just seeing now that we've chosen business and societal, apiologies again just seeing that now, wonderful viewpoints. I've chosen mathematical just for the paragraph but I will change this soon.
+
+## History update
+The history of social media can be traced back to early forms of electric communication, such as telegraph lines, with the first electronic message being sent by its creator Samuel Morse in May 1844, spelling out "What hath God wrought?". This message would ultimately foreshadow the immense technological and mathematical developments that would occur over the next 150 years, ultimately leading to todays modern tech messaging environment. 
+
+The first large scale electronic messaging network used on a wide scale for information sharing was the Advanced Research Projects Agency Network, or ARPANET for short, which was developed by the US Department of Defence, with funding primarily from ARPA, the advanced Research Project agency, a branch of the defence department. The network was developed in the late 1960s for the purpose of sharing information between four american universities: 
+
+The University of California, Los Angeles (UCLA) 
+
+Stanford Research Institute 
+
+University of California, Santa Barbara 
+
+University of Utah School of Computing 
+
+ 
+
+The first ARPANET message was from UCLA to the Stanford Research Institute in 1969, where the team present tried to login, but only got as far as "lo-" before the system crashed, showing the technological development required in the years preceding ARPANET for social media services to work in the modern day. In terms of societal impact, ARPANET displayed what was possible for electronic information sharing on a large scale, giving future developers a blueprint to create the internet as we know it today.  Although ARPANET had little impact in terms of business, later networks built from ARPANETs infrastructure would have massive effects on business in terms of company profit and business networking. 
+
+IN 1985, the National Science Foundation (NSF) developed NSFNET, a more robust and powerful backbone which would become the backbone of the early internet, further underpinning the leaps taken in technology at the time. While slow at first, measuring speeds of only 56kb/s, the NSF quickly made proposals for a faster version following its promise. In 1987, a team comprising of IBM, ICM communications and Merit Network undertook the task, showing the difficulty and gruelling work that had to be done to facilitate the online environment we have today. Similar to ARPANET, NSFNET had little significance in terms of business, but societally, it revealed a want for more sophisticated network infrastructure and information sharing. 
+
+Throughout the 1990s, the internet gave rise to online messaging services that would pioneer methods used by almost every social media application today. One such service was Sixdegrees, launched in 1997 by Andrew Weinreich, and agreed upon as the first online social networking service. Named after the theory of "Six degrees of separation", it was the first to implement a "Web of Contacts" model of social networking, where the user follows a list of close friends and then is recommended a list of other people who followed those friends. Societally, Sixdegrees was significant for its network model. Although the service itself was short lived, the model it used revolutionary and was directly implemented by later apps Facebook and LinkedIn, highlighting Sixdegrees importance in the context of early social media. Business wise, the company was highly influential for its time, as in 2026, Sixdegrees sold for €650M, showing its early capitalisation of a digital social network. 
+
+In 2002, Reid Hoffman would create LinkedIn with partners from his former workplaces and would redefine how formal networking was practiced in the 21st century. It is estimated that as of February 2026, LinkedIn has over 1.2B+ registered and over 134M daily active users, showing  LinkedIns societal impact on the formal networking landscape. From a business perspective, LinkedIn is also responsible for increasing job opportunities for both corporations and individual job hunters, as companies today look for talent in digital networking sites such as LinkedIn, showing how social media has had an impact on the modern business landscape. 
+
+Arguably, the event that marked a turn toward the modern social media landscape was the creation of Facebook, founded in 2004 by Eduardo Saverin, Dustin Moskovitz, Mark Zuckerberg and Chris Hughes in 2004 at Harvard University. Facebook would implement the previously mentioned Web of contacts and today has 1.3B+ active users. Facebook would lay the groundwork for other popular social media apps such as Instagram and Snapchat. The creation of Facebook marked a turn towards the modern social media landscape we know today and societally changed how people interact and meet online as a result. Facebook as a business also has a market cap of $1.768T and is the 8th largest company in the world according to Market Cap, showing the undoubtable influence Facebook has had in the business landscape. 
+##updated paragraph with business/societal viewpoints
