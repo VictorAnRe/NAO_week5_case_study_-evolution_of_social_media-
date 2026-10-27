@@ -162,3 +162,28 @@ Arguably, the event that marked a turn toward the modern social media landscape 
 # Bibliography
 
 Merriam-Webster (n.d.). Definition of social media. [online] Merriam-Webster. Available at: https://www.merriam-webster.com/dictionary/social%20media [Accessed 21 Oct. 2026].
+##References
+-https://online.maryville.edu/blog/evolution-social-media/ 
+
+-https://www.ibm.com/history/nsfnet 
+
+-https://en.wikipedia.org/wiki/SixDegrees.com  
+
+-Facebook Marketing: The Ultimate Guide 
+
+- https://blog.hootsuite.com/history-social-media/ 
+
+Mathematical history of the Internet | History | Research Starters | EBSCOhost 
+
+Experts in Creating Social Impact - SixDegrees.Org 
+
+Learn How ARPANET Worked and Evolved Over Time | Lenovo IE 
+
+Facebook’s Impact on Society and Culture | by Jaleed Abdullah | Medium 
+
+LinkedIn User Stats: 1.2B+ Registered, 134M Daily Active | Vikram Das posted on the topic | LinkedIn 
+
+Claranet becomes €650m channel behemoth with Six Degrees buyout 
+
+Meta Platforms (Facebook) (META) - Market capitalization
+##Adding references here for covenience
