@@ -7,9 +7,11 @@ Social media has transformed from basic web-based profile directories into compl
 
 
 <!-- The first paragraph I wrote here for it, unfinished but it is basically finished. date: 21/10/2026 -->
+
+<!-- Did a little bit more work on my section. date: 01/11/2026 -->
 Social media, which can be defined as “forms of electronic communication (such as websites for social networking and microblogging) through which users create online communities to share information, ideas, personal messages, and other content (such as videos)” (Merriam-Webster, n.d.), has been completely transformed from the rudimentary telegraph to the modern-day social media that dictate the common form of interaction and digital commerce.  
 
-In 1943, the first ever long-distance telegraph system was completed (60 km long), and the first public of the device was initiated.
+In 1943, the first ever long-distance telegraph system was completed (60 km long), and the first public display of the device was initiated. Then, in 1969, the technology that most modern social media originate from, the Advance Research Projects Agency Network or the ARPANET, a digital network that allowed communication between 4 universities to share information. Based upon this technology, the most recent predecessor for the creation of social media was made with a nationwide digital network called NSFNET. Finally, a decade later in 1997, SixDegrees.com became public on the internet, becoming the first ever social media platform to exist (Maryville University, 2020).
 
 
 ### Significance
@@ -162,6 +164,9 @@ Arguably, the event that marked a turn toward the modern social media landscape 
 # Bibliography
 
 Merriam-Webster (n.d.). Definition of social media. [online] Merriam-Webster. Available at: https://www.merriam-webster.com/dictionary/social%20media [Accessed 21 Oct. 2026].
+
+Maryville University (2020). The evolution of social media: How did it begin and where could it go next? [online] Maryville University. Available at: https://online.maryville.edu/blog/evolution-social-media/ [Accessed 1 Nov. 2026]. 
+
 ##References
 -https://online.maryville.edu/blog/evolution-social-media/ 
 
