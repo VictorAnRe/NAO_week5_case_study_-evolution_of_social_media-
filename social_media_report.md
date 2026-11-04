@@ -97,12 +97,13 @@ from a business view point social media has changed how companies advertise and 
 
 # Ethical Reflection & Improvements - Critical evaluation and solutions
 
-<!-- Notes (Will remove eventually) -->
+
 
 <!-- Introduction / (80 words) --> 
-The evolution of social media from older platforms such as MySpace to modern apps like TikTok have changed how people communicate, how businesses work, how information is shared and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of the engagement driven business model on the wellbeing of a platform's users. All this raises questions around whether the innovation of technology really has its users interests in mind. 
+The evolution of social media from older platforms such as MySpace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of the engagement driven business model on the wellbeing of a platform's users. All this raises questions around whether the innovation of technology really has its users interests in mind. 
 
 <!--Ethics 1 - Privacy + exploiting data --> 
+Privacy has continued to be a huge ethical issue throughout all of social media’s history; however, the scale and use of personal data collection have changed drastically over recent years. In the early days, Myspace encourages its users to share their personal information about themselves like photos, interests, details about their personal lives (occupations, relationships etc.) and faced criticism with the way in which this information was shared with advertising agencies which resulted in a legal battle in 2012 <!-- (Add reference FTC 2012). -->. Years later as Facebook grew in popularity, user data became much more valuable and used for much more malicious purposes when during the 2016 US election, Cambridge Analytica was paid to “improperly” collect personal data from millions of users for voter profiling showing the contrast on how data exploitation was done in the beginning and in modern times. 
 
 <!--Ethics 2 – Algorithms + engagement + wellbeing --> 
 
@@ -110,6 +111,7 @@ The evolution of social media from older platforms such as MySpace to modern app
 
 <!--Conclusion/reflection --> 
 
+<!-- Notes (Will remove eventually) -->
 ## Privacy
 - Modern: Platforms like Facebook and Instagram collect a large amount of data about their users such as age, gender, residence, behaviours, interests and even how they interact with the platform to help create highly personalised content and targeted advertisements
 - Historical: Earlier platforms like Myspace would encourage their users to share details about themselves such as photos, interests, info about their personal lives (relationships, occupations etc.)
@@ -130,7 +132,7 @@ The evolution of social media from older platforms such as MySpace to modern app
 - Historical: Misleading posts have always existed on social media platforms but the reach they had back then is incomparable to now
 - Potential point: Are platforms resposible, maybe on the bots side.
 
-
+<!-- References are in a seperate file, will add to do this doc soon-->
 
 
 
