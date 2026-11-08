@@ -194,3 +194,5 @@ Claranet becomes €650m channel behemoth with Six Degrees buyout
 
 Meta Platforms (Facebook) (META) - Market capitalization
 ##Adding references here for covenience
+
+## Just adding this quickly. I think its been about 3 weeks since we agreed that we would wait a week to complete our segments. I'm assuming that were all done in that aspect although some of us had trouble getting on github. My question is if the person designated to combine our segments has done so already and if not when it is going to be done for purposes of setting project goals going forward.
