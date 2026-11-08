@@ -11,8 +11,11 @@ Social media has transformed from basic web-based profile directories into compl
 <!-- Did a little bit more work on my section. date: 01/11/2026 -->
 Social media, which can be defined as “forms of electronic communication (such as websites for social networking and microblogging) through which users create online communities to share information, ideas, personal messages, and other content (such as videos)” (Merriam-Webster, n.d.), has been completely transformed from the rudimentary telegraph to the modern-day social media that dictate the common form of interaction and digital commerce.  
 
-In 1943, the first ever long-distance telegraph system was completed (60 km long), and the first public display of the device was initiated. Then, in 1969, the technology that most modern social media originate from, the Advance Research Projects Agency Network or the ARPANET, a digital network that allowed communication between 4 universities to share information. Based upon this technology, the most recent predecessor for the creation of social media was made with a nationwide digital network called NSFNET. Finally, a decade later in 1997, SixDegrees.com became public on the internet, becoming the first ever social media platform to exist (Maryville University, 2020).
+In 1943, the first ever long-distance telegraph system was completed (60 km long), and the first public of the device was initiated (McGillem, 2024). Then, in 1969, the technology that most modern social media originate from, the Advance Research Projects Agency Network or the ARPANET, a digital network that allowed communication between 4 universities to share information. Based upon this technology, the most recent predecessor for the creation of social media was made with a nationwide digital network called NSFNET (Featherly, 2016), which is considered to be web 1.0, the first iteration of the internet that focused of static websites that one could read from but not interact with it. Finally, a decade later in 1997, SixDegrees.com became public on the internet, becoming the first ever social media platform to exist (Maryville University, 2020). Alongside the release of the popular social media website, Myspace, the era of web 2.0, interactive websites and social media, began.  
 
+From this point onwards, the arrival of what most would consider “the modern internet” to be present and readily available to a large portion of the global population, especially with the most popular social media websites and eventually mobile applications, in the post PC era, such as YouTube, Twitter, Instagram and TikTok. 
+
+Beyond reforming social communication and information dissemination, the evolution of social media represents a gigantic change in how business and commerce are done in enterprise computing infrastructure. The transformation of this infrastructure can be observed through the change from traditional relational databases to distributed NoSQL storage architectures, such as Facebook and Twitter, and data streaming pipelines (Dražena Gašpar and Mirela Mabić, 2017). This shift of revolutionary development of software infrastructure was not limited to data streaming, rather it expands to the integration of machine learning, causing computing logic to change from user queries to predictive AI engines from available data of user behaviour in social media. In an enterprise viewpoint, these faucets established multi-billion-euro digital economies, which focused on programmatic ad auctions, data commodification, and hyper-targeted consumer marketing (Kumar et al., 2025). Due to all of this, it has led to the foundation of modern cloud-scale infrastructure for enterprise platforms of the modern era. 
 
 ### Significance
 <!-- Why this computing transformation matters today. -->
@@ -168,6 +171,14 @@ Arguably, the event that marked a turn toward the modern social media landscape 
 Merriam-Webster (n.d.). Definition of social media. [online] Merriam-Webster. Available at: https://www.merriam-webster.com/dictionary/social%20media [Accessed 21 Oct. 2026].
 
 Maryville University (2020). The evolution of social media: How did it begin and where could it go next? [online] Maryville University. Available at: https://online.maryville.edu/blog/evolution-social-media/ [Accessed 1 Nov. 2026]. 
+
+McGillem, C. (2024). Telegraph - Development of the telegraph industry. [online] Encyclopedia Britannica. Available at: https://www.britannica.com/technology/telegraph/Development-of-the-telegraph-industry [Accessed 8 Nov. 2026]. 
+
+Featherly, K. (2016). ARPANET | definition & history. In: Encyclopædia Britannica. [online] Available at: https://www.britannica.com/topic/ARPANET [Accessed 8 Nov. 2026]. 
+
+Dražena Gašpar and Mirela Mabić (2017). NoSQL databases as social networks storage systems. ENTRENOVA - ENTerprise REsearch InNOVAtion Journal, [online] 3(1), pp.367–373. Available at: https://ojs.srce.hr/index.php/entrenova/article/view/14100 [Accessed 8 Nov. 2026]. 
+
+None, R. K. V., None, D. N. K. and None, D. G. M. K. (2025) 'Digital Marketing: A Transformative Shift in Social Media Marketing – Opportunities and Challenges' Advances in Consumer Research 2(4), pp. 3809-3815. 
 
 ##References
 -https://online.maryville.edu/blog/evolution-social-media/ 
