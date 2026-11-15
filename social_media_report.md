@@ -100,7 +100,7 @@ from a business view point social media has changed how companies advertise and 
 
 # Ethical Reflection & Improvements - Critical evaluation and solutions
 
-
+<!-- References are in a seperate file, will add to do this doc soon-->
 
 <!-- Introduction / (80 words) --> 
 The evolution of social media from older platforms such as MySpace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of the engagement driven business model on the wellbeing of a platform's users. All this raises questions around whether the innovation of technology really has its users interests in mind. 
@@ -109,33 +109,14 @@ The evolution of social media from older platforms such as MySpace to modern app
 Privacy has continued to be a huge ethical issue throughout all of social media’s history; however, the scale and use of personal data collection have changed drastically over recent years. In the early days, Myspace encourages its users to share their personal information about themselves like photos, interests, details about their personal lives (occupations, relationships etc.) and faced criticism with the way in which this information was shared with advertising agencies which resulted in a legal battle in 2012 <!-- (Add reference FTC 2012). -->. Years later as Facebook grew in popularity, user data became much more valuable and used for much more malicious purposes when during the 2016 US election, Cambridge Analytica was paid to “improperly” collect personal data from millions of users for voter profiling showing the contrast on how data exploitation was done in the beginning and in modern times. 
 
 <!--Ethics 2 – Algorithms + engagement + wellbeing --> 
+As social media has evolved overtime, the way in which users connect with others and consume content on social media has changed. On older platforms, people connecting and finding content themselves, newer social medias like Instagram and TikTok rely more on algorithms and recommendations to create personalized feeds for their users (TikTok, 2020). This is put in as it makes it easier for the user to find content they would enjoy and helps provide opportunities to smaller creators. However, unfortunately there are some dangerous downsides to consider, as features such as endless scrolling and autoplay encourage excessive usage and time on these platforms. This causes concerns around social media’s impact on users’ mental wellbeing, especially for younger users (Jia & Wang, 2026). Furthermore, it has been proven that there is a clear association between excessive social media use and mental health difficulties including symptoms such as anxiety and depression (Office of the Surgeon General, 2023). Overall, social media companies should consider whether maximizing user attention for better advertising opportunities justifies the potential risks to their user’s mental health. 
 
 <!--Possible improvements --> 
+Now, to help address these ethical concerns, social media companies should start by better explaining to users how their data is collected and used, which would help reduce uninformed/unethical data collection. There should also be features such as screen time settings and the ability to choose non-personalised feeds which could help reduce mental harm from excessive use and exposure to addictive content (European Commission, 2025). Also, much stronger restrictions on minors signing up for platforms is required however, how this is to be implemented is under constant debate at the moment as governments are using it as an excuse to infringe on the privacy of adult users as well through requiring face scans and government IDs (Ofcom 2026).		 
 
 <!--Conclusion/reflection --> 
 
-<!-- Notes (Will remove eventually) -->
-## Privacy
-- Modern: Platforms like Facebook and Instagram collect a large amount of data about their users such as age, gender, residence, behaviours, interests and even how they interact with the platform to help create highly personalised content and targeted advertisements
-- Historical: Earlier platforms like Myspace would encourage their users to share details about themselves such as photos, interests, info about their personal lives (relationships, occupations etc.)
-- Potential point: Platforms have a complete in-depth understanding of how their data collection systems work and how they profit from it while a majority of their users have a limited understanding and the companies make no attempts to try educate them.
 
-## Algorithms
-- Modern: YouTube highly popularised highly personalised feeds that are designed to keep feeding users the content they would want to see and now this is a baseline on all social media platforms
-- Historical: Earlier platforms relied on you finding content yourself without much recommendation 
-- Potential point: On one hand platforms are designed to maximise attention but also there is a responsibility on the user to have self-control and know when to stop
-
-## Mental health
-- Modern: Platforms promoting unrealistic standards create a pressure for some people to try gain likes and followers.
-- Historical: Popularity metrics and the human nature to compare themselves have existed since the start of social media (Myspace etc.) and has always been one of it's biggest issues.
-- Potential point: How responsible are platforms?
-
-## Misinformation
-- Modern: Due to the large network size and sheer amount of people using social media platforms, articles lacking context, statistics being twisted and also just blatant made up claims can be spread quite quickly and it has become very valuable to do so.
-- Historical: Misleading posts have always existed on social media platforms but the reach they had back then is incomparable to now
-- Potential point: Are platforms resposible, maybe on the bots side.
-
-<!-- References are in a seperate file, will add to do this doc soon-->
 
 
 
