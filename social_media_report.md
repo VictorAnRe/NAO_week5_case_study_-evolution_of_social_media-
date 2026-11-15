@@ -121,6 +121,7 @@ Now, to help address these ethical concerns, social media companies should start
 
 
 
+
 ## History update
 The history of social media can be traced back to early forms of electric communication, such as telegraph lines, with the first electronic message being sent by its creator Samuel Morse in May 1844, spelling out "What hath God wrought?". This message would ultimately foreshadow the immense technological and mathematical developments that would occur over the next 150 years, ultimately leading to todays modern tech messaging environment. 
 
