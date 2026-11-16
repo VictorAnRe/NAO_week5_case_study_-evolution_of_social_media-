@@ -92,7 +92,8 @@ Arguably, the event that denoted a turn toward the modern social media landscape
 
 ## Business Evolution of social media platforms.
 
-from a business view point social media has changed how companies advertise and earn money. In the past business paid for simple banner ads on website.later,platform started showing ads based on people's interests and online activities.today companies also work with influencers and sell products through socail media,reaching many new customer more easily.
+from a business view point social media has changed how companies advertise and earn money. In the past business paid for simple banner ads on website but later platform started showing ads based on people's interests and online activities.today companies also work with influencers and sell products through socail media,reaching many new customer more easily.
+These methods give businesses more ways to earn money and understand customers. Targeted advertising helps a company show products to people who may be interested. Influencer marketing can make a product feel familiar because customers see someone they follow using it.Social shopping makes buying easier, as people can discover a product and purchase it through a platform.and one more important thing that the businesses must be honest about paid promotions and protect customer information, they have to build trust to customers because peoples may ignore their adverts and ads, this make stop to following them and make loses of customers,  Overall social media has become a major marketplace for businesses.
 
 
 
