@@ -107,11 +107,11 @@ These methods give businesses more ways to earn money and understand customers. 
 <!-- References are in a seperate file, will add to do this doc soon. Im going to write the conclusion and hopefully fix up my current paragraphs for my next commit.-->
 <!-- SORRY FOR LARGE WORD COUNT WILL CUT SOME OF MY PARTS SO I DONT GO OVER-->
 
-<!-- Introduction / (80 words) --> 
-The evolution of social media from older platforms such as MySpace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of the engagement driven business model on the wellbeing of a platform's users. All this raises questions around whether the innovation of technology really has its users interests in mind. 
+<!-- Introduction / (100 words) --> 
+The evolution of social media from older platforms such as MySpace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of tThe evolution of social media from older platforms such as Myspace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of the engagement driven business model on the wellbeing of a platform's users (FTC, 2024). All this raises questions around whether the innovation of technology really has its users interests in mind. As social media continues to grow, it's important we consider the responsibility these companies have to their users. he engagement driven business model on the wellbeing of a platform's users. All this raises questions around whether the innovation of technology really has its users interests in mind. 
 
-<!--Ethics 1 - Privacy + exploiting data / (139 words) --> 
-Privacy has continued to be a huge ethical issue throughout all of social media’s history; however, the scale and use of personal data collection have changed drastically over recent years. In the early days, Myspace encourages its users to share their personal information about themselves like photos, interests, details about their personal lives (occupations, relationships etc.) and faced criticism with the way in which this information was shared with advertising agencies which resulted in a legal battle in 2012 (FTC 2012). Years later as Facebook grew in popularity, user data became much more valuable and used for much more malicious purposes when during the 2016 US election, Cambridge Analytica was paid to “improperly” collect personal data from millions of users for voter profiling showing the contrast on how data exploitation was done in the beginning and in modern times. 
+<!--Ethics 1 - Privacy + exploiting data / (141 words) --> 
+Privacy has continued to be a huge ethical issue throughout all of social media’s history; however, the scale and use of personal data collection have changed drastically over recent years. In the early days, Myspace encourages its users to share their personal information about themselves like photos, interests, details about their personal lives (occupations, relationships etc.) and faced criticism with the way in which this information was shared with advertising agencies which resulted in a legal battle in 2012 (FTC, 2012).  Years later as Facebook grew in popularity, user data became much more valuable and used for much more malicious purposes when during the 2016 US election, Cambridge Analytica was paid to “improperly” collect personal data from millions of users for voter profiling (FTC, 2019) showing the contrast on how data exploitation was done in the beginning and in modern times. 
 
 <!--Ethics 2 – Algorithms + engagement + wellbeing / (178 words) --> 
 As social media has evolved overtime, the way in which users connect with others and consume content on social media has changed. On older platforms, people connecting and finding content themselves, newer social medias like Instagram and TikTok rely more on algorithms and recommendations to create personalized feeds for their users (TikTok, 2020). This is put in as it makes it easier for the user to find content they would enjoy and helps provide opportunities to smaller creators. However, unfortunately there are some dangerous downsides to consider, as features such as endless scrolling and autoplay encourage excessive usage and time on these platforms. This causes concerns around social media’s impact on users’ mental wellbeing, especially for younger users (Jia & Wang, 2026). Furthermore, it has been proven that there is a clear association between excessive social media use and mental health difficulties including symptoms such as anxiety and depression (Office of the Surgeon General, 2023). Overall, social media companies should consider whether maximizing user attention for better advertising opportunities justifies the potential risks to their user’s mental health. 
@@ -119,8 +119,16 @@ As social media has evolved overtime, the way in which users connect with others
 <!--Possible improvements / (179 words) --> 
 Now, to help address these ethical concerns, social media companies should start by better explaining to users how their data is collected and used, which would help reduce uninformed/unethical data collection. There should also be features such as screen time settings and the ability to choose non-personalised feeds which could help reduce mental harm from excessive use and exposure to addictive content (European Commission, 2025). Also, much stronger restrictions on minors signing up for platforms is required however, how this is to be implemented is under constant debate at the moment as governments are using it as an excuse to infringe on the privacy of adult users as well through requiring face scans and government IDs (Ofcom 2026).		 
 
-<!--Conclusion/reflection --> 
+<!--Conclusion/reflection / (51 words) --> 
+In conclusion, while social media has brought about global connectivity and culture sharing, safeguards for users have not always kept up with the other advances of these platforms. If the development of social media is to continue, it's important that user protections are put in place to protect users' lives and wellbeing. 
+<!-- Create conclusion. Fix references. Edit -->
 
+
+
+
+
+# Conclusion - Synthesis and broader implications
+<!-- Will start tommorow -->
 
 
 
@@ -191,6 +199,16 @@ LinkedIn User Stats: 1.2B+ Registered, 134M Daily Active | Vikram Das posted on 
 Claranet becomes €650m channel behemoth with Six Degrees buyout 
 
 Meta Platforms (Facebook) (META) - Market capitalization
-##Adding references here for covenience
+##Adding references here for covenience`
+
+<!-- Reflection references --> 
+https://search.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance 
+https://www.ftc.gov/news-events/news/press-releases/2012/05/myspace-settles-ftc-charges-it-misled-millions-users-about-sharing-personal-information-advertisers 
+https://www.ftc.gov/business-guidance/blog/2019/07/ftc-sues-cambridge-analytica-deceptive-claims-about-consumers-personal-information 
+https://www.ncbi.nlm.nih.gov/books/NBK594761/ 
+https://newsroom.tiktok.com/how-tiktok-recommends-videos-foryou?lang=en-AU 
+https://journals.sagepub.com/doi/abs/10.1177/21522715251404199 
+https://www.ofcom.org.uk/online-safety/protecting-children/how-age-checks-at-age-16-can-work-to-underpin-uks-social-media-ban 
+https://commission.europa.eu/news-and-media/news/digital-services-act-keeping-us-safe-online-2025-09-22_en 
 
 ## Just adding this quickly. I think its been about 3 weeks since we agreed that we would wait a week to complete our segments. I'm assuming that were all done in that aspect although some of us had trouble getting on github. My question is if the person designated to combine our segments has done so already and if not when it is going to be done for purposes of setting project goals going forward.
