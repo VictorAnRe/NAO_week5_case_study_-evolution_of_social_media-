@@ -194,3 +194,64 @@ Claranet becomes €650m channel behemoth with Six Degrees buyout
 
 Meta Platforms (Facebook) (META) - Market capitalization
 ##Adding references here for covenience
+
+
+
+# Societal Viewpoint Analysis
+
+# Societal Viewpoint Analysis
+
+Social media has significantly influenced modern society and changed the way people communicate, access information and participate in communities. Platforms such as Facebook, Instagram, TikTok, Snapchat and YouTube have become an important part of everyday life for billions of people. From a societal perspective, social media has created both positive and negative impacts that affect individuals, communities and society as a whole.
+
+## Communication and Global Connectivity
+
+One of the most significant societal impacts of social media is improved communication. Before social media platforms became popular, people relied mainly on phone calls, text messages and emails to stay connected. Today, social media allows users to communicate instantly through messages, comments, posts and video calls. Family members and friends can maintain relationships regardless of geographical location.
+
+Social media has also enabled global connectivity. People can interact with individuals from different countries and cultures, allowing the exchange of ideas and experiences. Online communities have developed around shared interests, hobbies and professional goals, creating opportunities for collaboration and social support.
+
+## Education and Access to Information
+
+Social media has become an important source of information and learning. Educational content is widely available through platforms such as YouTube, Instagram and TikTok. Students can watch tutorials, access study resources and learn new skills through online creators and educational communities.
+
+Another important benefit is the rapid sharing of information. News organisations, educational institutions and government agencies use social media to communicate updates and important information to the public. This provides users with access to information more quickly than many traditional methods of communication.
+
+In addition, social media encourages self-directed learning. Users can explore topics that interest them and gain knowledge outside formal educational settings. This has made learning more accessible to people of different ages and backgrounds.
+
+## Social Awareness and Community Engagement
+
+Social media has increased awareness of social, environmental and political issues. Campaigns and public awareness initiatives can reach millions of users within a short period of time. Individuals and organisations use social media platforms to promote causes, encourage discussion and share information with large audiences.
+
+Social media has also increased community engagement by allowing users to participate in discussions, express opinions and contribute to public conversations. Fundraising campaigns, community projects and awareness movements frequently use social media to attract support and engage with the public.
+
+As a result, social media has provided people with new ways to participate in society and engage with issues that affect their communities.
+
+## Negative Effects on Society
+
+Despite its benefits, social media also presents several challenges. One major issue is cyberbullying. Social media platforms can be used to harass, threaten or embarrass individuals online. Cyberbullying can negatively affect mental health and emotional wellbeing.
+
+Another concern is misinformation. False or misleading information can spread quickly through social media platforms. Because information can be shared rapidly, users may have difficulty determining whether content comes from reliable sources. This can create confusion and influence public opinion.
+
+Mental health concerns have also been linked to excessive social media use. Constant exposure to idealised images and lifestyles may contribute to anxiety, stress and low self-esteem. Excessive screen time may also reduce face-to-face interaction and negatively affect personal relationships.
+
+## Overall Impact on Society
+
+Overall, social media has transformed how people communicate, learn and participate in society. It has improved global connectivity, increased access to information and created opportunities for education and community engagement. However, challenges such as cyberbullying, misinformation and mental health concerns demonstrate that social media can also have negative consequences. From a societal perspective, social media remains one of the most influential technological developments of the modern era, offering both opportunities and challenges for society.
+
+# References
+
+## Websites Used
+
+1. Britannica. Social Media.
+   https://www.britannica.com/topic/social-media
+
+2. Britannica. Social Network.
+   https://www.britannica.com/technology/social-network
+
+3. Pew Research Center. Social Media Fact Sheet.
+   https://www.pewresearch.org/internet/fact-sheet/social-media/
+
+4. UNICEF. Cyberbullying: What is it and how to stop it?
+   https://www.unicef.org/end-violence/how-to-stop-cyberbullying
+
+5. Statista. Social Media Statistics.
+   https://www.statista.com/topics/1164/social-networks/
