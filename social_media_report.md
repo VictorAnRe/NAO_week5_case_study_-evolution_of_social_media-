@@ -11,8 +11,14 @@ Social media has transformed from basic web-based profile directories into compl
 <!-- Did a little bit more work on my section. date: 01/11/2026 -->
 Social media, which can be defined as “forms of electronic communication (such as websites for social networking and microblogging) through which users create online communities to share information, ideas, personal messages, and other content (such as videos)” (Merriam-Webster, n.d.), has been completely transformed from the rudimentary telegraph to the modern-day social media that dictate the common form of interaction and digital commerce.  
 
-In 1943, the first ever long-distance telegraph system was completed (60 km long), and the first public display of the device was initiated. Then, in 1969, the technology that most modern social media originate from, the Advance Research Projects Agency Network or the ARPANET, a digital network that allowed communication between 4 universities to share information. Based upon this technology, the most recent predecessor for the creation of social media was made with a nationwide digital network called NSFNET. Finally, a decade later in 1997, SixDegrees.com became public on the internet, becoming the first ever social media platform to exist (Maryville University, 2020).
+In 1943, the first ever long-distance telegraph system was completed (60 km long), and the first public of the device was initiated (McGillem, 2024). Then, in 1969, the technology that most modern social media originate from, the Advance Research Projects Agency Network or the ARPANET, a digital network that allowed communication between 4 universities to share information. Based upon this technology, the most recent predecessor for the creation of social media was made with a nationwide digital network called NSFNET (Featherly, 2016), which is considered to be web 1.0, the first iteration of the internet that focused of static websites that one could read from but not interact with it. Finally, a decade later in 1997, SixDegrees.com became public on the internet, becoming the first ever social media platform to exist (Maryville University, 2020). Alongside the release of the popular social media website, Myspace, the era of web 2.0, interactive websites and social media, began.  
 
+From this point onwards, the arrival of what most would consider “the modern internet” to be present and readily available to a large portion of the global population, especially with the most popular social media websites and eventually mobile applications, in the post PC era, such as YouTube, Twitter, Instagram and TikTok. 
+
+Beyond reforming social communication and information dissemination, the evolution of social media represents a gigantic change in how business and commerce are done in enterprise computing infrastructure. The transformation of this infrastructure can be observed through the change from traditional relational databases to distributed NoSQL storage architectures, such as Facebook and Twitter, and data streaming pipelines (Dražena Gašpar and Mirela Mabić, 2017). This shift of revolutionary development of software infrastructure was not limited to data streaming, rather it expands to the integration of machine learning, causing computing logic to change from user queries to predictive AI engines from available data of user behaviour in social media. In an enterprise viewpoint, these faucets established multi-billion-euro digital economies, which focused on programmatic ad auctions, data commodification, and hyper-targeted consumer marketing (Kumar et al., 2025). Due to all of this, it has led to the foundation of modern cloud-scale infrastructure for enterprise platforms of the modern era. 
+
+<!-- Did a little bit more work on my section again. added a new paragraph, not finished and will continue working on it. date: 16/11/2026 -->
+To investigate the wide transformation of the evolution of social media from its creation to modern iteration, this study will analyse it through two perspectives: the business and societal viewpoints. From the business point of view, it will focus on the evolution of monetization methods of social media platforms, programmatic ad auctions, data-based targeted marketing, data commodification, and others that did and is transforming current enterprises (Kumar et al., 2025).
 
 ### Significance
 <!-- Why this computing transformation matters today. -->
@@ -89,7 +95,8 @@ Arguably, the event that denoted a turn toward the modern social media landscape
 
 ## Business Evolution of social media platforms.
 
-from a business view point social media has changed how companies advertise and earn money. In the past business paid for simple banner ads on website.later,platform started showing ads based on people's interests and online activities.today companies also work with influencers and sell products through socail media,reaching many new customer more easily.
+from a business view point social media has changed how companies advertise and earn money. In the past business paid for simple banner ads on website but later platform started showing ads based on people's interests and online activities.today companies also work with influencers and sell products through socail media,reaching many new customer more easily.
+These methods give businesses more ways to earn money and understand customers. Targeted advertising helps a company show products to people who may be interested. Influencer marketing can make a product feel familiar because customers see someone they follow using it.Social shopping makes buying easier, as people can discover a product and purchase it through a platform.and one more important thing that the businesses must be honest about paid promotions and protect customer information, they have to build trust to customers because peoples may ignore their adverts and ads, this make stop to following them and make loses of customers,  Overall social media has become a major marketplace for businesses.
 
 
 
@@ -97,42 +104,25 @@ from a business view point social media has changed how companies advertise and 
 
 # Ethical Reflection & Improvements - Critical evaluation and solutions
 
-
+<!-- References are in a seperate file, will add to do this doc soon. Im going to write the conclusion and hopefully fix up my current paragraphs for my next commit.-->
+<!-- SORRY FOR LARGE WORD COUNT WILL CUT SOME OF MY PARTS SO I DONT GO OVER-->
 
 <!-- Introduction / (80 words) --> 
 The evolution of social media from older platforms such as MySpace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of the engagement driven business model on the wellbeing of a platform's users. All this raises questions around whether the innovation of technology really has its users interests in mind. 
 
-<!--Ethics 1 - Privacy + exploiting data --> 
-Privacy has continued to be a huge ethical issue throughout all of social media’s history; however, the scale and use of personal data collection have changed drastically over recent years. In the early days, Myspace encourages its users to share their personal information about themselves like photos, interests, details about their personal lives (occupations, relationships etc.) and faced criticism with the way in which this information was shared with advertising agencies which resulted in a legal battle in 2012 <!-- (Add reference FTC 2012). -->. Years later as Facebook grew in popularity, user data became much more valuable and used for much more malicious purposes when during the 2016 US election, Cambridge Analytica was paid to “improperly” collect personal data from millions of users for voter profiling showing the contrast on how data exploitation was done in the beginning and in modern times. 
+<!--Ethics 1 - Privacy + exploiting data / (139 words) --> 
+Privacy has continued to be a huge ethical issue throughout all of social media’s history; however, the scale and use of personal data collection have changed drastically over recent years. In the early days, Myspace encourages its users to share their personal information about themselves like photos, interests, details about their personal lives (occupations, relationships etc.) and faced criticism with the way in which this information was shared with advertising agencies which resulted in a legal battle in 2012 (FTC 2012). Years later as Facebook grew in popularity, user data became much more valuable and used for much more malicious purposes when during the 2016 US election, Cambridge Analytica was paid to “improperly” collect personal data from millions of users for voter profiling showing the contrast on how data exploitation was done in the beginning and in modern times. 
 
-<!--Ethics 2 – Algorithms + engagement + wellbeing --> 
+<!--Ethics 2 – Algorithms + engagement + wellbeing / (178 words) --> 
+As social media has evolved overtime, the way in which users connect with others and consume content on social media has changed. On older platforms, people connecting and finding content themselves, newer social medias like Instagram and TikTok rely more on algorithms and recommendations to create personalized feeds for their users (TikTok, 2020). This is put in as it makes it easier for the user to find content they would enjoy and helps provide opportunities to smaller creators. However, unfortunately there are some dangerous downsides to consider, as features such as endless scrolling and autoplay encourage excessive usage and time on these platforms. This causes concerns around social media’s impact on users’ mental wellbeing, especially for younger users (Jia & Wang, 2026). Furthermore, it has been proven that there is a clear association between excessive social media use and mental health difficulties including symptoms such as anxiety and depression (Office of the Surgeon General, 2023). Overall, social media companies should consider whether maximizing user attention for better advertising opportunities justifies the potential risks to their user’s mental health. 
 
-<!--Possible improvements --> 
+<!--Possible improvements / (179 words) --> 
+Now, to help address these ethical concerns, social media companies should start by better explaining to users how their data is collected and used, which would help reduce uninformed/unethical data collection. There should also be features such as screen time settings and the ability to choose non-personalised feeds which could help reduce mental harm from excessive use and exposure to addictive content (European Commission, 2025). Also, much stronger restrictions on minors signing up for platforms is required however, how this is to be implemented is under constant debate at the moment as governments are using it as an excuse to infringe on the privacy of adult users as well through requiring face scans and government IDs (Ofcom 2026).		 
 
 <!--Conclusion/reflection --> 
 
-<!-- Notes (Will remove eventually) -->
-## Privacy
-- Modern: Platforms like Facebook and Instagram collect a large amount of data about their users such as age, gender, residence, behaviours, interests and even how they interact with the platform to help create highly personalised content and targeted advertisements
-- Historical: Earlier platforms like Myspace would encourage their users to share details about themselves such as photos, interests, info about their personal lives (relationships, occupations etc.)
-- Potential point: Platforms have a complete in-depth understanding of how their data collection systems work and how they profit from it while a majority of their users have a limited understanding and the companies make no attempts to try educate them.
 
-## Algorithms
-- Modern: YouTube highly popularised highly personalised feeds that are designed to keep feeding users the content they would want to see and now this is a baseline on all social media platforms
-- Historical: Earlier platforms relied on you finding content yourself without much recommendation 
-- Potential point: On one hand platforms are designed to maximise attention but also there is a responsibility on the user to have self-control and know when to stop
 
-## Mental health
-- Modern: Platforms promoting unrealistic standards create a pressure for some people to try gain likes and followers.
-- Historical: Popularity metrics and the human nature to compare themselves have existed since the start of social media (Myspace etc.) and has always been one of it's biggest issues.
-- Potential point: How responsible are platforms?
-
-## Misinformation
-- Modern: Due to the large network size and sheer amount of people using social media platforms, articles lacking context, statistics being twisted and also just blatant made up claims can be spread quite quickly and it has become very valuable to do so.
-- Historical: Misleading posts have always existed on social media platforms but the reach they had back then is incomparable to now
-- Potential point: Are platforms resposible, maybe on the bots side.
-
-<!-- References are in a seperate file, will add to do this doc soon-->
 
 
 
@@ -169,6 +159,14 @@ Merriam-Webster (n.d.). Definition of social media. [online] Merriam-Webster. Av
 
 Maryville University (2020). The evolution of social media: How did it begin and where could it go next? [online] Maryville University. Available at: https://online.maryville.edu/blog/evolution-social-media/ [Accessed 1 Nov. 2026]. 
 
+McGillem, C. (2024). Telegraph - Development of the telegraph industry. [online] Encyclopedia Britannica. Available at: https://www.britannica.com/technology/telegraph/Development-of-the-telegraph-industry [Accessed 8 Nov. 2026]. 
+
+Featherly, K. (2016). ARPANET | definition & history. In: Encyclopædia Britannica. [online] Available at: https://www.britannica.com/topic/ARPANET [Accessed 8 Nov. 2026]. 
+
+Dražena Gašpar and Mirela Mabić (2017). NoSQL databases as social networks storage systems. ENTRENOVA - ENTerprise REsearch InNOVAtion Journal, [online] 3(1), pp.367–373. Available at: https://ojs.srce.hr/index.php/entrenova/article/view/14100 [Accessed 8 Nov. 2026]. 
+
+None, R. K. V., None, D. N. K. and None, D. G. M. K. (2025) 'Digital Marketing: A Transformative Shift in Social Media Marketing – Opportunities and Challenges' Advances in Consumer Research 2(4), pp. 3809-3815. 
+
 ##References
 -https://online.maryville.edu/blog/evolution-social-media/ 
 
@@ -194,6 +192,8 @@ Claranet becomes €650m channel behemoth with Six Degrees buyout
 
 Meta Platforms (Facebook) (META) - Market capitalization
 ##Adding references here for covenience
+
+## Just adding this quickly. I think its been about 3 weeks since we agreed that we would wait a week to complete our segments. I'm assuming that were all done in that aspect although some of us had trouble getting on github. My question is if the person designated to combine our segments has done so already and if not when it is going to be done for purposes of setting project goals going forward.
 
 
 
