@@ -217,8 +217,6 @@ https://commission.europa.eu/news-and-media/news/digital-services-act-keeping-us
 
 # Societal Viewpoint Analysis
 
-# Societal Viewpoint Analysis
-
 Social media has significantly influenced modern society and changed the way people communicate, access information and participate in communities. Platforms such as Facebook, Instagram, TikTok, Snapchat and YouTube have become an important part of everyday life for billions of people. From a societal perspective, social media has created both positive and negative impacts that affect individuals, communities and society as a whole.
 
 ## Communication and Global Connectivity
