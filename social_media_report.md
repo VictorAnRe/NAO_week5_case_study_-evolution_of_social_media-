@@ -133,13 +133,15 @@ In conclusion, while social media has brought about global connectivity and cult
 
 
 
-# Conclusion - Synthesis and broader implications
-<!-- Notes -->
-<!-- 
-Not too long as we are well over the wordcount
-Probs just 1/2 slides on powerpoint for conclusion
-Take point from each section
--->
+# Conclusion - Synthesis and broader implications <!-- (138 words) -->
+The evolution of social media has been one of the most significant developments in computing history having completely transformed business and society in the modern day. What started as a way of electronic communication has evolved into essential infrastructure for businesses and may people's lives. 
+
+Our group's analysis of both the business and societal view points show the connection between business' success and societal wellbeing as while advancements in algorithms, data collection and advertising have created huge opportunities for businesses, theyve also created fair concerns around user's privacy and mental health. 
+
+The ethical conclusion the finding of this case study demonstrates is the importance in balancing technological innovation with the protection of people's privacy and wellbeing (particularly children).
+
+Overall social media's development is an example of how computing can have beneficial but also have unintended consquences for society.
+<!-- First draft. Mind change tommorow but were running out of time and are already far over the word count so might have to keep conclusion short.-->
 
 
 
