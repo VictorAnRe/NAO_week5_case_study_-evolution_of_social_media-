@@ -282,3 +282,27 @@ Overall, social media has transformed how people communicate, learn and particip
 
 5. Statista. Social Media Statistics.
    https://www.statista.com/topics/1164/social-networks/
+
+## History of Social Media
+
+1. https://online.maryville.edu/blog/evolution-social-media/ 
+
+2. https://www.ibm.com/history/nsfnet 
+
+3. https://en.wikipedia.org/wiki/SixDegrees.com  
+
+4. Facebook Marketing: The Ultimate Guide 
+
+5. https://blog.hootsuite.com/history-social-media/ 
+
+6. Experts in Creating Social Impact - SixDegrees.Org 
+
+7. Learn How ARPANET Worked and Evolved Over Time | Lenovo IE 
+
+8. Facebook’s Impact on Society and Culture | by Jaleed Abdullah | Medium 
+
+9. LinkedIn User Stats: 1.2B+ Registered, 134M Daily Active | Vikram Das posted on the topic | LinkedIn 
+
+10. Claranet becomes €650m channel behemoth with Six Degrees buyout 
+
+11. Meta Platforms (Facebook) (META) - Market capitalization 
