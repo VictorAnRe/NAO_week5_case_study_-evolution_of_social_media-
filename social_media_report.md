@@ -1,14 +1,7 @@
 # Introduction: The Evolution of Social Media Platforms <!-- Victor Andrade -->
 
-<!-- Sample structure I may do. I still have to research more but it is a pretty good idea for the structure for the introduction. -->
-## Context
-<!-- Brief overview: From early platforms (e.g., SixDegrees, MySpace) to modern networks (e.g., Facebook, Instagram, TikTok). -->
 Social media has transformed from basic web-based profile directories into complex ecosystem architectures that dictate modern human interaction, content dissemination, and digital commerce.
 
-
-<!-- The first paragraph I wrote here for it, unfinished but it is basically finished. date: 21/10/2026 -->
-
-<!-- Did a little bit more work on my section. date: 01/11/2026 -->
 Social media, which can be defined as “forms of electronic communication (such as websites for social networking and microblogging) through which users create online communities to share information, ideas, personal messages, and other content (such as videos)” (Merriam-Webster, n.d.), has been completely transformed from the rudimentary telegraph to the modern-day social media that dictate the common form of interaction and digital commerce.  
 
 In 1943, the first ever long-distance telegraph system was completed (60 km long), and the first public use of the device was initiated (McGillem, 2024). Then, in 1969, the technology that most modern social media originate from, the Advance Research Projects Agency Network or the ARPANET, a digital network that allowed communication between 4 universities to share information. Based upon this technology, the most recent predecessor for the creation of social media was made with a nationwide digital network called NSFNET (Featherly, 2016), which is considered to be web 1.0, the first iteration of the internet that focused of static websites that one could read from but not interact with it. Finally, a decade later in 1997, SixDegrees.com became public on the internet, becoming the first ever social media platform to exist (Maryville University, 2020). Alongside the release of the popular social media website, Myspace, the era of web 2.0, interactive websites and social media, began.  
@@ -17,26 +10,9 @@ From this point onwards, the arrival of what most would consider “the modern i
 
 Beyond reforming social communication and information dissemination, the evolution of social media represents a gigantic change in how business and commerce are done in enterprise computing infrastructure. The transformation of this infrastructure can be observed through the change from traditional relational databases to distributed NoSQL storage architectures, such as Facebook and Twitter, and data streaming pipelines (Dražena Gašpar and Mirela Mabić, 2017). This shift of revolutionary development of software infrastructure was not limited to data streaming, rather it expands to the integration of machine learning, causing computing logic to change from user queries to predictive AI engines from available data of user behaviour in social media. In an enterprise viewpoint, these faucets established multi-billion-euro digital economies, which focused on programmatic ad auctions, data commodification, and hyper-targeted consumer marketing (Kumar et al., 2025). Due to all of this, it has led to the foundation of modern cloud-scale infrastructure for enterprise platforms of the modern era. 
 
-<!-- Did a little bit more work on my section again. added a new paragraph, not finished and will continue working on it. date: 16/11/2026 -->
-
-<!-- Finished the introduction. Date 25/11/2026-->
 To investigate the wide transformation of the evolution of social media from its creation to modern iteration, this study will analyse it through two perspectives: the business and societal viewpoints. From the business point of view, it will focus on the evolution of monetization methods of social media platforms, programmatic ad auctions, data-based targeted marketing, data commodification, and others that did and is transforming current enterprises (Kumar et al., 2025). The societal standpoint concentrates on how social media algorithmic feeds have developed, the effect on human communication, information distributions, how communities are formed and their dynamics, and so on. By evaluating the business and societal viewpoints, it allows for a detailed breakdown of the evolution of social media and how it affects the entire global society and its economy (Kumar et al., 2025). 
 
 Therefore, this study will analyse the digital architectural development of social media to increase scalability of users and to maximise data-driven monetization through ads and promotions. Finally, the study will determine the effects and consequences the evolution of social media has had on people on a societal level and how businesses/companies choose to use social media for profit, consequently making a large economic sector on these platforms. 
-
-## Significance
-<!-- Why this computing transformation matters today. -->
-The evolution of social media platforms represents one of the most rapid and impactful adoption curves in technological history. It fundamentally reshaped global communication infrastructures, personal data privacy norms, digital economies, and societal information flows.
-
-## Thesis Statement
-<!-- Core argument linking technological iteration to societal and business impact. -->
-This case study argues that while the architectural transition of social media—from static Web 1.0 personal spaces to algorithmic Web 2.0 dynamic feeds—driven by engineering innovation was designed to maximize user retention and monetization, it fundamentally disrupted human social structures and redefined organizational business models.
-
-## Selected Viewpoints
-To evaluate this computing transformation, this study will analyze the evolution through two distinct lenses:
-1. **Societal Viewpoint:** Examining how algorithmic feeds and network effects changed interpersonal communication, media consumption, and community dynamics.
-2. **Business Viewpoint:** Analyzing how monetization models evolved from traditional banner advertising to data-driven targeted ads, influencer marketing, and platform-integrated e-commerce.
-
 
 
 # Historical Development <!-- Jayden Byrne -->
