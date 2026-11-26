@@ -1,7 +1,7 @@
-# Introduction: The Evolution of Social Media Platforms
+# Introduction: The Evolution of Social Media Platforms <!-- Victor Andrade -->
 
-## Sample structure I may do. I still have to research more but it is a pretty good idea for the structure for the introduction.
-### Context
+<!-- Sample structure I may do. I still have to research more but it is a pretty good idea for the structure for the introduction. -->
+## Context
 <!-- Brief overview: From early platforms (e.g., SixDegrees, MySpace) to modern networks (e.g., Facebook, Instagram, TikTok). -->
 Social media has transformed from basic web-based profile directories into complex ecosystem architectures that dictate modern human interaction, content dissemination, and digital commerce.
 
@@ -24,51 +24,22 @@ To investigate the wide transformation of the evolution of social media from its
 
 Therefore, this study will analyse the digital architectural development of social media to increase scalability of users and to maximise data-driven monetization through ads and promotions. Finally, the study will determine the effects and consequences the evolution of social media has had on people on a societal level and how businesses/companies choose to use social media for profit, consequently making a large economic sector on these platforms. 
 
-### Significance
+## Significance
 <!-- Why this computing transformation matters today. -->
 The evolution of social media platforms represents one of the most rapid and impactful adoption curves in technological history. It fundamentally reshaped global communication infrastructures, personal data privacy norms, digital economies, and societal information flows.
 
-### Thesis Statement
+## Thesis Statement
 <!-- Core argument linking technological iteration to societal and business impact. -->
 This case study argues that while the architectural transition of social media—from static Web 1.0 personal spaces to algorithmic Web 2.0 dynamic feeds—driven by engineering innovation was designed to maximize user retention and monetization, it fundamentally disrupted human social structures and redefined organizational business models.
 
-### Selected Viewpoints
+## Selected Viewpoints
 To evaluate this computing transformation, this study will analyze the evolution through two distinct lenses:
 1. **Societal Viewpoint:** Examining how algorithmic feeds and network effects changed interpersonal communication, media consumption, and community dynamics.
 2. **Business Viewpoint:** Analyzing how monetization models evolved from traditional banner advertising to data-driven targeted ads, influencer marketing, and platform-integrated e-commerce.
 
 
 
-##History of social media: 
-
-Electric communication, May 24, 1844 
-
-ARPANET: 1969, US Department of defence, educational hardware between universities: 
-
-- University of California, Los Angeles 
-
-- Stanford Research Institute 
-
-- University of California, Santa Barbara 
-
-- University of Utah 
-
-NSFNET, launched in 1985 by National Science Foundation for more robust/ powerful structure for linking computers. Slow at first (56kb/s). Higher speed version in 1987 by IBM/MCI/Merit 
-
-Facilitated early sites (CompuServe/Prodigy/BBS) internet messaging was present. 
-
-Community memory 1973, set up one of first bulletin boards 
-
- 
-
-Six Degrees, first social media site in 1997. Named after six degrees of separation theory. Web of contacts model, create profile, list close friends, browse list of other related people. Later used by Facebook/LinkedIn. Short lived 
-
-LinkedIn, 2002, one of the most used career social sites, 1.3B+ active users. 
-
-Facebook, 2004, Mark Zuckerberg, 3 billion+ active users, popularised web model. 
-#Just submitting my research so far. I believe we said a week to research so I'm just adding mine here. Hopefully its visible to  everyone!
-
-####
+# Historical Development <!-- Jayden Byrne -->
 The history of social media can be traced back to early forms of electric communication, such as telegraph lines, with the first electronic message being sent by its creator Samuel Morse in May 1844, spelling out "What hath God wrought?". This message would ultimately foreshadow the immense technological and mathematical developments that would occur over the next 150 years, ultimately leading to todays modern tech messaging environment. 
 
 The first large scale electronic messaging network used on a wide scale for information sharing was the Advanced Research Projects Agency Network, or ARPANET for short, which was developed by the US Department of Defence, with funding primarily from ARPA, the advanced Research Project agency, a branch of the defence department. The network was developed in the late 1960s for the purpose of sharing information between four american universities: 
@@ -82,86 +53,6 @@ University of California, Santa Barbara
 University of Utah School of Computing 
 
  
-
-The first ARPANET message was from UCLA to the Stanford Research Institute in 1969, where the team present tried to login, but only got as far as "lo-" before the system crashed, showing the development of both mathematical and technological development required for social media services to work in the modern day. 
-
-IN 1985, the National Science Foundation (NSF) developed NSFNET, a more robust and powerful backbone which would become the backbone of the early internet, further underpinning the leaps taken in technology at the time. While slow at first, measuring speeds of only 56kb/s, the NSF quickly made proposals for a faster version following its promise. In 1987, a team comprising of IBM, ICM communications and Merit Network undertook the task, showing the difficulty and gruelling work that had to be done to facilitate the online environment we have today. 
-
-Throughout the 1990s, the internet gave rise to online messaging services that would pioneer methods used by almost every social media application today. One such service was Sixdegrees, launched in 1997 by Andrew Weinreich, and agreed upon as the first online social networking service. Named after the theory of "Six degrees of separation", it was the first to implement a "Web of Contacts" model of social networking, where the user follows a list of close friends and then is recommended a list of other people who followed those friends. Although the service itself was short lived, the model it used revolutionary and was directly implemented by later apps Facebook and LinkedIn, highlighting Sixdegrees importance in the context of early social media. 
-
-Arguably, the event that denoted a turn toward the modern social media landscape was the creation of Facebook, founded in 2004 by Eduardo Saverin, Dustin Moskovitz, Mark Zuckerberg and Chris Hughes in 2004 at Harvard University. Facebook would implement the previously mentioned Web of contacts and today has 1.3B+ active users. Facebook would lay the groundwork for other popular social media apps such as Instagram and Snapchat. The creation of Facebook marked a turn towards the modern social media landscape we know today 
-
-#Sorry for the late repo, but this is the first few paragraphs I made up. They are a bit rushed I'm sorry, but they will be edited. Just seeing now that we've chosen business and societal, apiologies again just seeing that now, wonderful viewpoints. I've chosen mathematical just for the paragraph but I will change this soon.
-
-
-
-
-
-## Business Evolution of social media platforms.
-
-from a business view point social media has changed how companies advertise and earn money. In the past business paid for simple banner ads on website but later platform started showing ads based on people's interests and online activities.today companies also work with influencers and sell products through socail media,reaching many new customer more easily.
-These methods give businesses more ways to earn money and understand customers. Targeted advertising helps a company show products to people who may be interested. Influencer marketing can make a product feel familiar because customers see someone they follow using it.Social shopping makes buying easier, as people can discover a product and purchase it through a platform.and one more important thing that the businesses must be honest about paid promotions and protect customer information, they have to build trust to customers because peoples may ignore their adverts and ads, this make stop to following them and make loses of customers,  Overall social media has become a major marketplace for businesses.
-Another important change is the way social media helps businesses understand their customers. Platforms provide information about which posts people like, what they click on, and which products they view. Businesses can use these insights to improve their adverts and choose content that their audience enjoys. This can save time and money because companies can focus on people who are more likely to buy and its make it easier to undrestand.
-Social media also allows small businesses to compete with larger companies. A small shop can make videos, share customer reviews, and show new products without needing a large advertising budget. If a post becomes popular, it can reach many people in a short time. This gives small businesses an opportunity to grow and build a loyal customer base.
-
-Online shopping has also become part of social media. Customers may see a product in a video, read comments, and visit a shop link without leaving the platform this make easy for customer to chaeck the quility of product and This makes buying more convenient and can encourage customers to make quick decisions. Businesses need to make sure their products, prices, and delivery details are clear.
-However, businesses should not depend only on social media. Platform rules and algorithms can change, and a company may suddenly reach fewer people. It is important to keep good customer service, offer quality products, and build trust. Social media is useful, but it works best when it supports a strong business plan and honest communication with customers. Companies should reply politely to messages and complaints to keep customers satisfied and protect their online reputation.
-
-
-
-
-
-# Ethical Reflection & Improvements - Critical evaluation and solutions
-
-## Introduction / (100 words) --> 
-The evolution of social media from older platforms such as MySpace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of tThe evolution of social media from older platforms such as Myspace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of the engagement driven business model on the wellbeing of a platform's users (FTC, 2024). All this raises questions around whether the innovation of technology really has its users interests in mind. As social media continues to grow, it's important we consider the responsibility these companies have to their users. he engagement driven business model on the wellbeing of a platform's users. All this raises questions around whether the innovation of technology really has its users interests in mind. 
-
-## Ethics 1 - Privacy + exploiting data <!-- (141 words) --> 
-Privacy has continued to be a huge ethical issue throughout all of social media’s history; however, the scale and use of personal data collection have changed drastically over recent years. In the early days, Myspace encourages its users to share their personal information about themselves like photos, interests, details about their personal lives (occupations, relationships etc.) and faced criticism with the way in which this information was shared with advertising agencies which resulted in a legal battle in 2012 (FTC, 2012).  Years later as Facebook grew in popularity, user data became much more valuable and used for much more malicious purposes when during the 2016 US election, Cambridge Analytica was paid to “improperly” collect personal data from millions of users for voter profiling (FTC, 2019) showing the contrast on how data exploitation was done in the beginning and in modern times. 
-
-## Ethics 2 – Algorithms + engagement + wellbeing <!-- (178 words) --> 
-As social media has evolved overtime, the way in which users connect with others and consume content on social media has changed. On older platforms, people connecting and finding content themselves, newer social medias like Instagram and TikTok rely more on algorithms and recommendations to create personalized feeds for their users (TikTok, 2020). This is put in as it makes it easier for the user to find content they would enjoy and helps provide opportunities to smaller creators. However, unfortunately there are some dangerous downsides to consider, as features such as endless scrolling and autoplay encourage excessive usage and time on these platforms. This causes concerns around social media’s impact on users’ mental wellbeing, especially for younger users (Jia & Wang, 2026). Furthermore, it has been proven that there is a clear association between excessive social media use and mental health difficulties including symptoms such as anxiety and depression (Office of the Surgeon General, 2023). Overall, social media companies should consider whether maximizing user attention for better advertising opportunities justifies the potential risks to their user’s mental health. 
-
-## Possible improvements <!-- (179 words) --> 
-Now, to help address these ethical concerns, social media companies should start by better explaining to users how their data is collected and used, which would help reduce uninformed/unethical data collection. There should also be features such as screen time settings and the ability to choose non-personalised feeds which could help reduce mental harm from excessive use and exposure to addictive content (European Commission, 2025). Also, much stronger restrictions on minors signing up for platforms is required however, how this is to be implemented is under constant debate at the moment as governments are using it as an excuse to infringe on the privacy of adult users as well through requiring face scans and government IDs (Ofcom 2026).		 
-
-## Conclusion/reflection <!-- (51 words) --> 
-In conclusion, while social media has brought about global connectivity and culture sharing, safeguards for users have not always kept up with the other advances of these platforms. If the development of social media is to continue, it's important that user protections are put in place to protect users' lives and wellbeing. 
-<!-- decided not to rearrange right now as it make it seem like wrote the whole document if i touch other's text-->
-
-
-
-
-
-# Conclusion - Synthesis and broader implications <!-- (138 words) -->
-The evolution of social media has been one of the most significant developments in computing history having completely transformed business and society in the modern day. What started as a way of electronic communication has evolved into essential infrastructure for businesses and may people's lives. 
-
-Our group's analysis of both the business and societal view points show the connection between business' success and societal wellbeing as while advancements in algorithms, data collection and advertising have created huge opportunities for businesses, theyve also created fair concerns around user's privacy and mental health. 
-
-The ethical conclusion the finding of this case study demonstrates is the importance in balancing technological innovation with the protection of people's privacy and wellbeing (particularly children).
-
-Overall social media's development is an example of how computing can have beneficial but also have unintended consquences for society.
-<!-- First draft. Mind change tommorow but were running out of time and are already far over the word count so might have to keep conclusion short.-->
-
-
-
-
-
-## History update
-The history of social media can be traced back to early forms of electric communication, such as telegraph lines, with the first electronic message being sent by its creator Samuel Morse in May 1844, spelling out "What hath God wrought?". This message would ultimately foreshadow the immense technological and mathematical developments that would occur over the next 150 years, ultimately leading to todays modern tech messaging environment. 
-
-The first large scale electronic messaging network used on a wide scale for information sharing was the Advanced Research Projects Agency Network, or ARPANET for short, which was developed by the US Department of Defence, with funding primarily from ARPA, the advanced Research Project agency, a branch of the defence department. The network was developed in the late 1960s for the purpose of sharing information between four american universities: 
-
-The University of California, Los Angeles (UCLA) 
-
-Stanford Research Institute 
-
-University of California, Santa Barbara 
-
-University of Utah School of Computing 
-
- 
-
 The first ARPANET message was from UCLA to the Stanford Research Institute in 1969, where the team present tried to login, but only got as far as "lo-" before the system crashed, showing the technological development required in the years preceding ARPANET for social media services to work in the modern day. In terms of societal impact, ARPANET displayed what was possible for electronic information sharing on a large scale, giving future developers a blueprint to create the internet as we know it today.  Although ARPANET had little impact in terms of business, later networks built from ARPANETs infrastructure would have massive effects on business in terms of company profit and business networking. 
 
 IN 1985, the National Science Foundation (NSF) developed NSFNET, a more robust and powerful backbone which would become the backbone of the early internet, further underpinning the leaps taken in technology at the time. While slow at first, measuring speeds of only 56kb/s, the NSF quickly made proposals for a faster version following its promise. In 1987, a team comprising of IBM, ICM communications and Merit Network undertook the task, showing the difficulty and gruelling work that had to be done to facilitate the online environment we have today. Similar to ARPANET, NSFNET had little significance in terms of business, but societally, it revealed a want for more sophisticated network infrastructure and information sharing. 
@@ -171,64 +62,25 @@ Throughout the 1990s, the internet gave rise to online messaging services that w
 In 2002, Reid Hoffman would create LinkedIn with partners from his former workplaces and would redefine how formal networking was practiced in the 21st century. It is estimated that as of February 2026, LinkedIn has over 1.2B+ registered and over 134M daily active users, showing  LinkedIns societal impact on the formal networking landscape. From a business perspective, LinkedIn is also responsible for increasing job opportunities for both corporations and individual job hunters, as companies today look for talent in digital networking sites such as LinkedIn, showing how social media has had an impact on the modern business landscape. 
 
 Arguably, the event that marked a turn toward the modern social media landscape was the creation of Facebook, founded in 2004 by Eduardo Saverin, Dustin Moskovitz, Mark Zuckerberg and Chris Hughes in 2004 at Harvard University. Facebook would implement the previously mentioned Web of contacts and today has 1.3B+ active users. Facebook would lay the groundwork for other popular social media apps such as Instagram and Snapchat. The creation of Facebook marked a turn towards the modern social media landscape we know today and societally changed how people interact and meet online as a result. Facebook as a business also has a market cap of $1.768T and is the 8th largest company in the world according to Market Cap, showing the undoubtable influence Facebook has had in the business landscape. 
-##updated paragraph with business/societal viewpoints
-
-
-# Bibliography
-
-Merriam-Webster (n.d.). Definition of social media. [online] Merriam-Webster. Available at: https://www.merriam-webster.com/dictionary/social%20media [Accessed 21 Oct. 2026].
-
-Maryville University (2020). The evolution of social media: How did it begin and where could it go next? [online] Maryville University. Available at: https://online.maryville.edu/blog/evolution-social-media/ [Accessed 1 Nov. 2026]. 
-
-McGillem, C. (2024). Telegraph - Development of the telegraph industry. [online] Encyclopedia Britannica. Available at: https://www.britannica.com/technology/telegraph/Development-of-the-telegraph-industry [Accessed 8 Nov. 2026]. 
-
-Featherly, K. (2016). ARPANET | definition & history. In: Encyclopædia Britannica. [online] Available at: https://www.britannica.com/topic/ARPANET [Accessed 8 Nov. 2026]. 
-
-Dražena Gašpar and Mirela Mabić (2017). NoSQL databases as social networks storage systems. ENTRENOVA - ENTerprise REsearch InNOVAtion Journal, [online] 3(1), pp.367–373. Available at: https://ojs.srce.hr/index.php/entrenova/article/view/14100 [Accessed 8 Nov. 2026]. 
-
-None, R. K. V., None, D. N. K. and None, D. G. M. K. (2025) 'Digital Marketing: A Transformative Shift in Social Media Marketing – Opportunities and Challenges' Advances in Consumer Research 2(4), pp. 3809-3815. 
-
-##References
--https://online.maryville.edu/blog/evolution-social-media/ 
-
--https://www.ibm.com/history/nsfnet 
-
--https://en.wikipedia.org/wiki/SixDegrees.com  
-
--Facebook Marketing: The Ultimate Guide 
-
-- https://blog.hootsuite.com/history-social-media/ 
-
-Mathematical history of the Internet | History | Research Starters | EBSCOhost 
-
-Experts in Creating Social Impact - SixDegrees.Org 
-
-Learn How ARPANET Worked and Evolved Over Time | Lenovo IE 
-
-Facebook’s Impact on Society and Culture | by Jaleed Abdullah | Medium 
-
-LinkedIn User Stats: 1.2B+ Registered, 134M Daily Active | Vikram Das posted on the topic | LinkedIn 
-
-Claranet becomes €650m channel behemoth with Six Degrees buyout 
-
-Meta Platforms (Facebook) (META) - Market capitalization
-##Adding references here for covenience`
-
-<!-- Reflection references --> 
-https://search.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance 
-https://www.ftc.gov/news-events/news/press-releases/2012/05/myspace-settles-ftc-charges-it-misled-millions-users-about-sharing-personal-information-advertisers 
-https://www.ftc.gov/business-guidance/blog/2019/07/ftc-sues-cambridge-analytica-deceptive-claims-about-consumers-personal-information 
-https://www.ncbi.nlm.nih.gov/books/NBK594761/ 
-https://newsroom.tiktok.com/how-tiktok-recommends-videos-foryou?lang=en-AU 
-https://journals.sagepub.com/doi/abs/10.1177/21522715251404199 
-https://www.ofcom.org.uk/online-safety/protecting-children/how-age-checks-at-age-16-can-work-to-underpin-uks-social-media-ban 
-https://commission.europa.eu/news-and-media/news/digital-services-act-keeping-us-safe-online-2025-09-22_en 
-
-## Just adding this quickly. I think its been about 3 weeks since we agreed that we would wait a week to complete our segments. I'm assuming that were all done in that aspect although some of us had trouble getting on github. My question is if the person designated to combine our segments has done so already and if not when it is going to be done for purposes of setting project goals going forward.
+<!-- updated paragraph with business/societal viewpoints -->
 
 
 
-# Societal Viewpoint Analysis
+# Business Viewpoint Analysis <!-- Mohammad Amiiri -->
+
+From a business view point social media has changed how companies advertise and earn money. In the past business paid for simple banner ads on website but later platform started showing ads based on people's interests and online activities.today companies also work with influencers and sell products through socail media,reaching many new customer more easily.
+
+These methods give businesses more ways to earn money and understand customers. Targeted advertising helps a company show products to people who may be interested. Influencer marketing can make a product feel familiar because customers see someone they follow using it.Social shopping makes buying easier, as people can discover a product and purchase it through a platform.and one more important thing that the businesses must be honest about paid promotions and protect customer information, they have to build trust to customers because peoples may ignore their adverts and ads, this make stop to following them and make loses of customers,  Overall social media has become a major marketplace for businesses.
+
+Another important change is the way social media helps businesses understand their customers. Platforms provide information about which posts people like, what they click on, and which products they view. Businesses can use these insights to improve their adverts and choose content that their audience enjoys. This can save time and money because companies can focus on people who are more likely to buy and its make it easier to undrestand.
+Social media also allows small businesses to compete with larger companies. A small shop can make videos, share customer reviews, and show new products without needing a large advertising budget. If a post becomes popular, it can reach many people in a short time. This gives small businesses an opportunity to grow and build a loyal customer base.
+
+Online shopping has also become part of social media. Customers may see a product in a video, read comments, and visit a shop link without leaving the platform this make easy for customer to chaeck the quility of product and This makes buying more convenient and can encourage customers to make quick decisions. Businesses need to make sure their products, prices, and delivery details are clear.
+However, businesses should not depend only on social media. Platform rules and algorithms can change, and a company may suddenly reach fewer people. It is important to keep good customer service, offer quality products, and build trust. Social media is useful, but it works best when it supports a strong business plan and honest communication with customers. Companies should reply politely to messages and complaints to keep customers satisfied and protect their online reputation.
+
+
+
+# Societal Viewpoint Analysis <!-- Nino Nadaraia -->
 
 Social media has significantly influenced modern society and changed the way people communicate, access information and participate in communities. Platforms such as Facebook, Instagram, TikTok, Snapchat and YouTube have become an important part of everyday life for billions of people. From a societal perspective, social media has created both positive and negative impacts that affect individuals, communities and society as a whole.
 
@@ -266,27 +118,54 @@ Mental health concerns have also been linked to excessive social media use. Cons
 
 Overall, social media has transformed how people communicate, learn and participate in society. It has improved global connectivity, increased access to information and created opportunities for education and community engagement. However, challenges such as cyberbullying, misinformation and mental health concerns demonstrate that social media can also have negative consequences. From a societal perspective, social media remains one of the most influential technological developments of the modern era, offering both opportunities and challenges for society.
 
+
+
+# Ethical Reflection & Improvements <!-- Jack Dempsey-->
+
+## Introduction
+The evolution of social media from older platforms such as MySpace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of tThe evolution of social media from older platforms such as Myspace to modern apps like TikTok has changed how people communicate, how businesses work, how information is shared, and much more. However, with these great advancements come significant ethical concerns around things like privacy, data exploitation, algorithms and the impact of the engagement driven business model on the wellbeing of a platform's users (FTC, 2024). All this raises questions around whether the innovation of technology really has its users interests in mind. As social media continues to grow, it's important we consider the responsibility these companies have to their users. he engagement driven business model on the wellbeing of a platform's users. All this raises questions around whether the innovation of technology really has its users interests in mind. 
+
+## Ethics 1 - Privacy + exploiting data
+Privacy has continued to be a huge ethical issue throughout all of social media’s history; however, the scale and use of personal data collection have changed drastically over recent years. In the early days, Myspace encourages its users to share their personal information about themselves like photos, interests, details about their personal lives (occupations, relationships etc.) and faced criticism with the way in which this information was shared with advertising agencies which resulted in a legal battle in 2012 (FTC, 2012).  Years later as Facebook grew in popularity, user data became much more valuable and used for much more malicious purposes when during the 2016 US election, Cambridge Analytica was paid to “improperly” collect personal data from millions of users for voter profiling (FTC, 2019) showing the contrast on how data exploitation was done in the beginning and in modern times. 
+
+## Ethics 2 – Algorithms + engagement + wellbeing
+As social media has evolved overtime, the way in which users connect with others and consume content on social media has changed. On older platforms, people connecting and finding content themselves, newer social medias like Instagram and TikTok rely more on algorithms and recommendations to create personalized feeds for their users (TikTok, 2020). This is put in as it makes it easier for the user to find content they would enjoy and helps provide opportunities to smaller creators. However, unfortunately there are some dangerous downsides to consider, as features such as endless scrolling and autoplay encourage excessive usage and time on these platforms. This causes concerns around social media’s impact on users’ mental wellbeing, especially for younger users (Jia & Wang, 2026). Furthermore, it has been proven that there is a clear association between excessive social media use and mental health difficulties including symptoms such as anxiety and depression (Office of the Surgeon General, 2023). Overall, social media companies should consider whether maximizing user attention for better advertising opportunities justifies the potential risks to their user’s mental health. 
+
+## Possible improvements 
+Now, to help address these ethical concerns, social media companies should start by better explaining to users how their data is collected and used, which would help reduce uninformed/unethical data collection. There should also be features such as screen time settings and the ability to choose non-personalised feeds which could help reduce mental harm from excessive use and exposure to addictive content (European Commission, 2025). Also, much stronger restrictions on minors signing up for platforms is required however, how this is to be implemented is under constant debate at the moment as governments are using it as an excuse to infringe on the privacy of adult users as well through requiring face scans and government IDs (Ofcom 2026).		 
+
+## Reflection 
+In conclusion, while social media has brought about global connectivity and culture sharing, safeguards for users have not always kept up with the other advances of these platforms. If the development of social media is to continue, it's important that user protections are put in place to protect users' lives and wellbeing. 
+
+
+
+# Conclusion <!-- Jack Dempsey -->
+
+The evolution of social media has been one of the most significant developments in computing history having completely transformed business and society in the modern day. What started as a way of electronic communication has evolved into essential infrastructure for businesses and may people's lives. 
+
+Our group's analysis of both the business and societal view points show the connection between business' success and societal wellbeing as while advancements in algorithms, data collection and advertising have created huge opportunities for businesses, theyve also created fair concerns around user's privacy and mental health. 
+
+The ethical conclusion the finding of this case study demonstrates is the importance in balancing technological innovation with the protection of people's privacy and wellbeing (particularly children).
+
+Overall social media's development is an example of how computing can have beneficial but also have unintended consquences for society.
+
+
+
 # References
 
-## Websites Used
+Merriam-Webster (n.d.). Definition of social media. [online] Merriam-Webster. Available at: https://www.merriam-webster.com/dictionary/social%20media [Accessed 21 Oct. 2026].
 
-1. Britannica. Social Media.
-   https://www.britannica.com/topic/social-media
+Maryville University (2020). The evolution of social media: How did it begin and where could it go next? [online] Maryville University. Available at: https://online.maryville.edu/blog/evolution-social-media/ [Accessed 1 Nov. 2026]. 
 
-2. Britannica. Social Network.
-   https://www.britannica.com/technology/social-network
+McGillem, C. (2024). Telegraph - Development of the telegraph industry. [online] Encyclopedia Britannica. Available at: https://www.britannica.com/technology/telegraph/Development-of-the-telegraph-industry [Accessed 8 Nov. 2026]. 
 
-3. Pew Research Center. Social Media Fact Sheet.
-   https://www.pewresearch.org/internet/fact-sheet/social-media/
+Featherly, K. (2016). ARPANET | definition & history. In: Encyclopædia Britannica. [online] Available at: https://www.britannica.com/topic/ARPANET [Accessed 8 Nov. 2026]. 
 
-4. UNICEF. Cyberbullying: What is it and how to stop it?
-   https://www.unicef.org/end-violence/how-to-stop-cyberbullying
+Dražena Gašpar and Mirela Mabić (2017). NoSQL databases as social networks storage systems. ENTRENOVA - ENTerprise REsearch InNOVAtion Journal, [online] 3(1), pp.367–373. Available at: https://ojs.srce.hr/index.php/entrenova/article/view/14100 [Accessed 8 Nov. 2026]. 
 
-5. Statista. Social Media Statistics.
-   https://www.statista.com/topics/1164/social-networks/
+None, R. K. V., None, D. N. K. and None, D. G. M. K. (2025) 'Digital Marketing: A Transformative Shift in Social Media Marketing – Opportunities and Challenges' Advances in Consumer Research 2(4), pp. 3809-3815. 
 
-## History of Social Media
-
+<!-- History References -->
 1. https://online.maryville.edu/blog/evolution-social-media/ 
 
 2. https://www.ibm.com/history/nsfnet 
@@ -308,3 +187,36 @@ Overall, social media has transformed how people communicate, learn and particip
 10. Claranet becomes €650m channel behemoth with Six Degrees buyout 
 
 11. Meta Platforms (Facebook) (META) - Market capitalization 
+
+<!-- Societal Viewpoint References -->
+1. Britannica. Social Media.
+   https://www.britannica.com/topic/social-media
+
+2. Britannica. Social Network.
+   https://www.britannica.com/technology/social-network
+
+3. Pew Research Center. Social Media Fact Sheet.
+   https://www.pewresearch.org/internet/fact-sheet/social-media/
+
+4. UNICEF. Cyberbullying: What is it and how to stop it?
+   https://www.unicef.org/end-violence/how-to-stop-cyberbullying
+
+5. Statista. Social Media Statistics.
+   https://www.statista.com/topics/1164/social-networks/
+
+<!-- Reflection references --> 
+Federal Trade Commission (2024). FTC staff report finds large social media and video streaming companies have engaged in vast surveillance of users with lax privacy controls and inadequate safeguards for kids and teens. [online] Federal Trade Commission. Available at: https://search.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance
+
+Federal Trade Commission (2012). Myspace settles FTC charges that it misled millions of users about sharing personal information with advertisers. [online] Federal Trade Commission. Available at: https://www.ftc.gov/news-events/news/press-releases/2012/05/myspace-settles-ftc-charges-it-misled-millions-users-about-sharing-personal-information-advertisers
+
+Fair, L. (2019). FTC sues Cambridge Analytica for deceptive claims about consumers’ personal information. [online] Federal Trade Commission. Available at: https://www.ftc.gov/business-guidance/blog/2019/07/ftc-sues-cambridge-analytica-deceptive-claims-about-consumers-personal-information
+
+Office of the Surgeon General (2023). Social media and youth mental health: The U.S. Surgeon General’s advisory. [online] U.S. Department of Health and Human Services. Available at: https://www.ncbi.nlm.nih.gov/books/NBK594761/
+
+TikTok (2020). How TikTok recommends videos #ForYou. [online] TikTok Newsroom. Available at: https://newsroom.tiktok.com/how-tiktok-recommends-videos-foryou?lang=en-AU
+
+Jia, D.Y. and Wang, Y. (2026). Endless scrolling: Predictors of procrastinatory short-form video use and its effects on stress and sleep. [online] Cyberpsychology, Behavior, and Social Networking, 29(1), pp.49–56. Available at: https://journals.sagepub.com/doi/abs/10.1177/21522715251404199
+
+Ofcom (2026). How age checks at age 16 can work to underpin UK’s social media ban. [online] Ofcom. Available at: https://www.ofcom.org.uk/online-safety/protecting-children/how-age-checks-at-age-16-can-work-to-underpin-uks-social-media-ban
+
+European Commission (2025). Digital Services Act: keeping us safe online. [online] European Commission. Available at: https://commission.europa.eu/news-and-media/news/digital-services-act-keeping-us-safe-online-2025-09-22_en 
